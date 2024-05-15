@@ -1,0 +1,14 @@
+/* Element Name Selector */
+h1 {
+    color: blue;
+}
+
+/* Class Name Selector */
+.red-text {
+    color: red;
+}
+
+/* ID Selector */
+#main-content {
+    background-color: lightgray;
+}
